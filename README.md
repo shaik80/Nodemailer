@@ -1,6 +1,10 @@
 # Nodemailer
 Hello coder, this repo has complete setup of of nodemailer
 
+# setup gmail account
++ go to filer server.js
+
+
 # how to run this code
 + Download this repo by termilar writing`git clone https://github.com/shaik80/Nodemailer.git`
 or you guys can directy download this repo
