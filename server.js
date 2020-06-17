@@ -37,8 +37,8 @@ app.post("/", async (req, res) => {
     port: 587,
     secure: false, // true for 465, false for other ports
     auth: {
-      user: "sh.mudassir80@gmail.com", // generated ethereal user
-      pass: "Shaik Mudassir80", // generated ethereal password
+      user: "your gmail account", // generated ethereal user
+      pass: "your password", // generated ethereal password
     },
   });
 
