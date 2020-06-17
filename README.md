@@ -19,4 +19,5 @@ or you guys can directy download this repo
   + In server.js you find 'Enter your gamil account' there you enter your gamil id
   + In same flie you find `Enter your password` there you enter your gmail id password
 
-#### For better understanding follow youtube video
+#### For better understanding  [click here](https://youtu.be/twRjflbTlus) to follow youtube video
+
